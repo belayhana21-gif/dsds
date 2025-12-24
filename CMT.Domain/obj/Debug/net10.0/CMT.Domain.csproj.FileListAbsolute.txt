@@ -1,0 +1,15 @@
+/workspaces/dsds/CMT.Domain/bin/Debug/net10.0/CMT.Domain.deps.json
+/workspaces/dsds/CMT.Domain/bin/Debug/net10.0/CMT.Domain.runtimeconfig.json
+/workspaces/dsds/CMT.Domain/bin/Debug/net10.0/CMT.Domain.dll
+/workspaces/dsds/CMT.Domain/bin/Debug/net10.0/CMT.Domain.pdb
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.csproj.AssemblyReference.cache
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.AssemblyInfoInputs.cache
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.AssemblyInfo.cs
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.csproj.CoreCompileInputs.cache
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.sourcelink.json
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.dll
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/refint/CMT.Domain.dll
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.pdb
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/CMT.Domain.genruntimeconfig.cache
+/workspaces/dsds/CMT.Domain/obj/Debug/net10.0/ref/CMT.Domain.dll

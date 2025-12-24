@@ -1,0 +1,16 @@
+/workspaces/dsds/CMT.Application/bin/Debug/net10.0/CMT.Application.deps.json
+/workspaces/dsds/CMT.Application/bin/Debug/net10.0/CMT.Application.dll
+/workspaces/dsds/CMT.Application/bin/Debug/net10.0/CMT.Application.pdb
+/workspaces/dsds/CMT.Application/bin/Debug/net10.0/CMT.Domain.dll
+/workspaces/dsds/CMT.Application/bin/Debug/net10.0/CMT.Domain.pdb
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.csproj.AssemblyReference.cache
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.AssemblyInfoInputs.cache
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.AssemblyInfo.cs
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.csproj.CoreCompileInputs.cache
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.sourcelink.json
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Appl.52DDE5FC.Up2Date
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.dll
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/refint/CMT.Application.dll
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/CMT.Application.pdb
+/workspaces/dsds/CMT.Application/obj/Debug/net10.0/ref/CMT.Application.dll
